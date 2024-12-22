@@ -1,4 +1,4 @@
-# devtools-protocol [![devtools-protocol on npm](https://img.shields.io/npm/v/devtools-protocol)](https://www.npmjs.com/package/devtools-protocol)
+ devtools-protocol [![devtools-protocol on npm](https://img.shields.io/npm/v/devtools-protocol)](https://www.npmjs.com/package/devtools-protocol)
 
 :warning:
 This repository is related to Chrome DevTools Protocol, but does not track issues regarding its definition or implementation.
